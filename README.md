@@ -1,7 +1,8 @@
-<!--
 # Chloe
-_Or how I created the first project I'm proud of._
+_Or how I created the first concept I'm proud of._
 
+details soon...
+<!--
 ## What is it. Or... Who?
 "Chloe" is the name for my bot I created on Python when I was 15 y.o.
 
