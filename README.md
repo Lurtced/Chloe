@@ -1,3 +1,4 @@
+<!--
 # Chloe
 _Or how I created the first project I'm proud of._
 
@@ -38,3 +39,4 @@ I still see it.
 It's my inspirition in the flesh. 
 Or... 
 in bits... :)
+-->
